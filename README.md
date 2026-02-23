@@ -12,7 +12,4 @@ UX/UI: Implementação de máscaras de entrada (Real Brasileiro), animações de
 Frontend: React, CSS3 (Glassmorphism), JavaScript (ES6+).
 Backend: Node.js, Express, CORS.
 
-# Como rodar o projeto
-1. Clone o repositório.
-2. No terminal do `/server`, rode `npm install` e `node index.js`.
-3. No terminal do `/client`, rode `npm install` e `npm start`.
+
