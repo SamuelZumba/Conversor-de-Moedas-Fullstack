@@ -6,10 +6,10 @@ Este é um projeto full-stack que desenvolvi para consolidar meus conhecimentos 
 React Hooks: Uso intensivo de `useState` e `useEffect` para gerenciar o estado da aplicação.
 CSS-in-JS vs CSS Externo: Pratiquei a refatoração de estilos para melhorar a performance e organização do código.
 Integração com Backend:Consumo de API própria via `fetch`.
-UX/UI: Implementação de máscaras de entrada (Real Brasileiro), animações de troca de moeda e feedback tátil (Vibração).
+UX/UI: Implementação de máscaras de entrada, animações de troca de moeda e feedback tátil (Vibração).
 
 # Tecnologias
-Frontend: React, CSS3 (Glassmorphism), JavaScript (ES6+).
+Frontend: React, CSS (Glassmorphism), JavaScript.
 Backend: Node.js, Express, CORS.
 
 
